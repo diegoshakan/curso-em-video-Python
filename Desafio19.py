@@ -1,6 +1,6 @@
 import random
 
-'''Faça um programa que sorteie o nome de quatro pessoas e mostre o sorteado.'''
+'''Faça um programa que sorteie o nome de quatro alunos e mostre o sorteado.'''
 
 nome1 = input('Digite o primeiro nome: ')
 nome2 = input('Digite o segundo nome: ')

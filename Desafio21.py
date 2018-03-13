@@ -1,5 +1,7 @@
 import pygame
 
+'''Faça um programa que seja capaz de tocar um mp3'''
+
 pygame.init()
 pygame.mixer.music.load('Desafio21.mp3')
 pygame.mixer.music.play

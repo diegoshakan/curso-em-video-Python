@@ -5,7 +5,7 @@ nome = input('Digite uma frase: ').strip().lower()
 nome = nome.replace(' ', '')
 nomeAoContrario = nome[::-1].lower()
 if nome == nomeAoContrario:
-   print('{} e {} São palíndromo!'.format(nome, nomeAoContrario))
+   print('{} e {} é palíndromo!'.format(nome, nomeAoContrario))
 else:
    print('{} e {} Não é palíndromo!'.format(nome,nomeAoContrario))
 
